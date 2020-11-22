@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+body{
+    font-family: 'Ubuntu';
+    background-color: rgb(20,20,20);
+}
+
+h1{
+    color:rgb(230,230,230);
+    line-height: 72px;
+    font-size: 48px;
+}
+
+h2{
+    color:rgb(230,230,230);
+    line-height: 24px;
+    font-size: 24px;
+}
+
+h3{
+    color:rgb(230,230,230);
+    line-height: 24px;
+    font-size: 20px;
+}
+h4{
+    color:rgb(230,230,230);
+    line-height: 20px;
+    font-size: 16px;
+}
+
+.center-text{
+    text-align: center;
+    position: relative;
+    width: 70%;
+    height: 20%;
+    left: 15%;
+    top: 10%;
+}
+
+.subheader-text{
+    text-align: left;
+    position: relative;
+    width: 86%;
+    height: 20%;
+    left: 7%;
+    top: 10%;
+}
+
+.paragraph-text{
+    font-weight: 400;
+    text-align: left;
+    position: relative;
+    width: 86%;
+    height: 20%;
+    left: 7%;
+    top: 10%;
+}
+
+.center-image{
+    position: relative;
+    width: 70%;
+    height: 20%;
+    left: 15%;
+    top: 10%;
+}
+
+.sub-image{
+    position: relative;
+    width: 50%;
+    height: 20%;
+    left: 25%;
+    top: 5%;
+}
+
+.sub-image-text{
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    width: 70%;
+    height: 20%;
+    left: 15%;
+    top: 10%;
+}
+
+.list-position{
+    padding-left: 10%;
+}
+
+.list-text-white{
+    color:rgb(255,255,255);
+}
+
+.center-button{
+    position:relative;
+    left: 44%;
+    top: 5%;
+}
+
+.button{
+    border-radius: 3px;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 15px 32px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #555555;
+    color: white;
+}
+
+
+
